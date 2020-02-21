@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Code 201 Reading Notes
+## An Intro to the World of Coding
 
-You can use the [editor on GitHub](https://github.com/cnickels21/Reading-Notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my learning journal for the **DeltaV Code School** 201 course!  All of the journal entries you find here will be a blog style summary of the lessons we cover in this class.  From basic HTML, CSS, and JavaScript to learning practical application of these coding languages, you will find what you need to get a head start towards becoming a developer.  As our instructor Craig Barkley said:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ > If it's worth wanting, it's worth working for. 
 
-### Markdown
+If you are interested in checking out my other projects as we go along you can find my Github profile [here](https://github.com/cnickels21).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Table of Contents
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cnickels21/Reading-Notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Introductory HTML and JavaScript
+2. HTML Text, CSS Introduction, and Basic JavaScript Instructions
+3. HTML Lists, CSS Boxes, JS Control Flow
+4. HTML Links, CSS Layout, JS Functions
+5. HTML Images; CSS Color & Text
+6. JS Object Literals; The DOM
+7. HTML Tables; JS Constructor Functions
+8. More CSS Layout
+9. Forms and Events
+10. JS Debugging
+11. Assorted Topics
+12. Docs for the HTML <\canvas> Element & Chart.js
+13. Local Storage
+14. CSS Transforms, Transitions, and Animations
+15. What Google Learned About Teams
