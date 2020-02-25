@@ -9,7 +9,7 @@ If you are interested in checking out my other projects as we go along you can f
 
 ### Table of Contents
 
-1. [Introductory HTML and JavaScript](https://github.com/cnickels21/Reading-Notes/blob/master/class-01.md)
+1. [Introductory HTML and JavaScript](class-01.md)
 2. HTML Text, CSS Introduction, and Basic JavaScript Instructions
 3. HTML Lists, CSS Boxes, JS Control Flow
 4. HTML Links, CSS Layout, JS Functions
