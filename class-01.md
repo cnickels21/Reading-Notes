@@ -1,4 +1,5 @@
 # Reading Journal 01
+
 ## Introductory HTML and JavaScript
 
 In the world of coding and programming it is important to understand what exactly you are attempting to accomplish and how you expect to achieve those goals.  It is also important to understand how computers function, and how you can use computers by giving them tasks to perform in order to meet your expectations.  They do not perform tasks in a way that you or I might because once we learn something it becomes natural to perform said task without thinking about it too much.  Computers, however, need to follow specific instructions every time a task or process is performed.
