@@ -1,4 +1,4 @@
-# Reading Journal 7
+# Reading Journal 07
 
 ## HTML Tables
 

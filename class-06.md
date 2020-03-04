@@ -1,4 +1,4 @@
-# Reading Journal 6
+# Reading Journal 06
 
 ## Object Literals
 

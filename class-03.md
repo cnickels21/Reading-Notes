@@ -1,4 +1,4 @@
-# Reading Journal 3
+# Reading Journal 03
 
 ## HTML Lists, CSS Boxes
 
