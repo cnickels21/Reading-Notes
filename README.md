@@ -18,7 +18,7 @@ If you are interested in checking out my other projects as we go along you can f
 6. [JS Object Literals; The DOM](class-06.md)
 7. [HTML Tables; JS Constructor Functions](class-07.md)
 8. [More CSS Layout](class-08.md)
-9. Forms and Events
+9. [Forms and Events](class-09.md)
 10. JS Debugging
 11. Assorted Topics
 12. Docs for the HTML <\canvas> Element & Chart.js
