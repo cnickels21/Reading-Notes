@@ -23,5 +23,5 @@ If you are interested in checking out my other projects as we go along you can f
 11. [Assorted Topics](class-11.md)
 12. [Docs for the HTML <\canvas> Element & Chart.js](class-12.md)
 13. [Local Storage](class-13.md)
-14. CSS Transforms, Transitions, and Animations
-15. What Google Learned About Teams
+14. [CSS Transforms, Transitions, and Animations](class-14.md)
+15. [What Google Learned About Teams](class-15.md)
