@@ -10,6 +10,8 @@ If you are interested in checking out my other projects as we go along you can f
 
 ### Table of Contents
 
+#### 201
+
 1. [Introductory HTML and JavaScript](class-01.md)
 2. [HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md)
 3. [HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
@@ -25,3 +27,7 @@ If you are interested in checking out my other projects as we go along you can f
 13. [Local Storage](class-13.md)
 14. [CSS Transforms, Transitions, and Animations](class-14.md)
 15. [What Google Learned About Teams](class-15.md)
+
+#### 301
+
+1. [SMACSS and Responsive Web Design](class301-01.md)
