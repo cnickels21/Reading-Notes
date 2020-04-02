@@ -33,3 +33,4 @@ If you are interested in checking out my other projects as we go along you can f
 1. [SMACSS and Responsive Web Design](class301-01.md)
 2. [jQuery, Events, and The DOM](class301-02.md)
 3. [Flexbox and Templating](class301-03.md)
+4. [Responsive Web Design and Regular Expressions](class301-04.md)
