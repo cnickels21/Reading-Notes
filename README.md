@@ -35,3 +35,4 @@ If you are interested in checking out my other projects as we go along you can f
 3. [Flexbox and Templating](class301-03.md)
 4. [Responsive Web Design and Regular Expressions](class301-04.md)
 5. [Heroku Deployment](class301-05.md)
+6. [Node, Express, and APIs](class301-06.md)
