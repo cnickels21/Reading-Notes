@@ -37,3 +37,4 @@ If you are interested in checking out my other projects as we go along you can f
 5. [Heroku Deployment](class301-05.md)
 6. [Node, Express, and APIs](class301-06.md)
 7. [API's Continued](class301-07.md)
+8. [SQL](class301-08.md)
