@@ -39,3 +39,4 @@ If you are interested in checking out my other projects as we go along you can f
 7. [API's Continued](class301-07.md)
 8. [SQL](class301-08.md)
 9. [Refactoring](class301-09.md)
+10. [The Call Stack and Debugging](class301-10.md)
