@@ -43,3 +43,4 @@ If you are interested in checking out my other projects as we go along you can f
 11. [EJS](class301-11.md)
 12. [Components](class301-12.md)
 13. [Update\Delete](class301-13.md)
+14. [Database Normalization](class301-14.md)
