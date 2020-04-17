@@ -44,3 +44,4 @@ If you are interested in checking out my other projects as we go along you can f
 12. [Components](301/class301-12.md)
 13. [Update\Delete](301/class301-13.md)
 14. [Database Normalization](301/class301-14.md)
+15. [Diversity and Inclusion](301/class301-15.md)
