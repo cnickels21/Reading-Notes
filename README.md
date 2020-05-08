@@ -52,3 +52,4 @@ If you are interested in checking out my other projects as we go along you can f
 2. [Unit Tests and Documentation](401/class401-02.md)
 3. [System I\O](401/class401-03.md)
 4. [Classes and Objects](401/class401-04.md)
+5. [Linked Lists](401/class401-05.md)
