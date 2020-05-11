@@ -53,3 +53,4 @@ If you are interested in checking out my other projects as we go along you can f
 3. [System I\O](401/class401-03.md)
 4. [Classes and Objects](401/class401-04.md)
 5. [Linked Lists](401/class401-05.md)
+6. [OOP Principles](401/class401-06.md)
