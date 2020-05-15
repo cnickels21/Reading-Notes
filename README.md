@@ -57,3 +57,4 @@ If you are interested in checking out my other projects as we go along you can f
 7. [Object Oriented Programming](401/class401-07.md)
 8. [Collections](401/class401-08.md)
 9. [LINQ](401/class401-09.md)
+10. [Stacks and Queues](401/class401-10.md)
