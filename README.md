@@ -60,3 +60,4 @@ If you are interested in checking out my other projects as we go along you can f
 10. [Stacks and Queues](401/class401-10.md)
 11. [MVC](401/class401-11.md)
 12. [Relational Databases](401/class401-12.md)
+13. [Code First Migrations](401/class401-13.md)
