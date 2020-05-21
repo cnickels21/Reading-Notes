@@ -1,8 +1,8 @@
-# Code 201 Reading Notes
+# DeltaV Code School Reading Journals
 
 ## An Intro to the World of Coding
 
-Welcome to my learning journal for the **DeltaV Code School** 201 course!  All of the journal entries you find here will be a blog style summary of the lessons we cover in this class.  From basic HTML, CSS, and JavaScript to learning practical application of these coding languages, you will find what you need to get a head start towards becoming a developer.  As our instructor Craig Barkley said:
+Welcome to my learning journal for the **DeltaV Code School** experience!  All of the journal entries you find here will be a blog style summary of the lessons we cover in this course.  From basic HTML, CSS, and JavaScript to learning practical application of these coding languages, you will find what you need to get a head start towards becoming a developer. We have also added C#, .NET, databases, API's and many other web and software development related material throughout the process of this course!  It's been a bumpy ride, but as our instructor Craig Barkley said:
 
  > If it's worth wanting, it's worth working for.
 
