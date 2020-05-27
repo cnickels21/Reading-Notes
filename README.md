@@ -64,3 +64,4 @@ If you are interested in checking out my other projects as we go along you can f
 14. [Intro to Building API's](401/class401-14.md)
 15. [Trees](401/class401-15.md)
 16. [Dependency Injection](401/class401-16.md)
+17. [Data Transfer Objects](401/class401-17.md)
