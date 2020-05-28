@@ -65,3 +65,4 @@ If you are interested in checking out my other projects as we go along you can f
 15. [Trees](401/class401-15.md)
 16. [Dependency Injection](401/class401-16.md)
 17. [Data Transfer Objects](401/class401-17.md)
+18. [Views & Tag Helpers](401/class401-18.md)
