@@ -46,7 +46,7 @@ If you are interested in checking out my other projects as we go along you can f
 14. [Database Normalization](301/class301-14.md)
 15. [Diversity and Inclusion](301/class301-15.md)
 
-#### 401
+#### 401 Part I
 
 1. [Exception Handling](401/class401-01.md)
 2. [Unit Tests and Documentation](401/class401-02.md)
@@ -67,3 +67,7 @@ If you are interested in checking out my other projects as we go along you can f
 17. [Data Transfer Objects](401/class401-17.md)
 18. [Views & Tag Helpers](401/class401-18.md)
 19. [Calling An API](401/class401-19.md)
+
+#### 401 Part II
+
+1. [User Identity](401.PartTwo/class401-02-01.md)
