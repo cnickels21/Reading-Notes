@@ -71,3 +71,4 @@ If you are interested in checking out my other projects as we go along you can f
 #### 401 Part II
 
 1. [User Identity](401.PartTwo/class401-02-01.md)
+2. [User Authentication](401.PartTwo/class401-02-02.md)
