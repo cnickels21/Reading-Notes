@@ -76,3 +76,4 @@ If you are interested in checking out my other projects as we go along you can f
 4. [User Authorization](401PartTwo/class401-02-04.md)
 5. [Hash Tables](401PartTwo/class401-02-05.md)
 6. [React in a Nutshell](401PartTwo/class401-02-06.md)
+7. [React Testing and Deployment](401PartTwo/class401-02-07.md)
