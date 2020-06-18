@@ -78,3 +78,4 @@ If you are interested in checking out my other projects as we go along you can f
 6. [React in a Nutshell](401PartTwo/class401-02-06.md)
 7. [React Testing and Deployment](401PartTwo/class401-02-07.md)
 8. [Props and State](401PartTwo/class401-02-08.md)
+9. [Component Composition](401PartTwo/class401-02-09.md)
