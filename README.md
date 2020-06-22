@@ -80,3 +80,4 @@ If you are interested in checking out my other projects as we go along you can f
 8. [Props and State](401PartTwo/class401-02-08.md)
 9. [Component Composition](401PartTwo/class401-02-09.md)
 10. [Graphs](401PartTwo/class401-02-10.md)
+11. [Hooks in React](401PartTwo/class401-02-11.md)
