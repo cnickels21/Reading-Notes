@@ -83,3 +83,4 @@ If you are interested in checking out my other projects as we go along you can f
 11. [Hooks in React](401PartTwo/class401-02-11.md)
 12. [Custom Hooks](401PartTwo/class401-02-12.md)
 13. [Context](401PartTwo/class401-02-13.md)
+14. [Login and Auth](401PartTwo/class401-02-14.md)
